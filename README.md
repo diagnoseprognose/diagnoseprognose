@@ -2,14 +2,13 @@
 
 ## Tag 1
 
-
 1. Main item 1
-   i. Subitem a
-   ii. Subitem b
+2. Main item 2
+   1. Subitem a
+   2. Subitem b
 3. Main item 3
-   - a. Subitem a
-   - b. Subitem b
-     - i. Sub-subitem i
-     - ii. Sub-subitem ii
+   1. Subitem a
+   2. Subitem b
+      1. Sub-subitem i
+      2. Sub-subitem ii
 4. Main item 4
-
