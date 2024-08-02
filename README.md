@@ -4,9 +4,8 @@
 
 
 1. Main item 1
-2. Main item 2
-   - a. Subitem a
-   - b. Subitem b
+   i. Subitem a
+   ii. Subitem b
 3. Main item 3
    - a. Subitem a
    - b. Subitem b
