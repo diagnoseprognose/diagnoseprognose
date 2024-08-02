@@ -3,14 +3,14 @@
 ## Tag 1
 
 
-<ol>
-  <li>Main item 1</li>
-  <li>Main item 2
-    <ol type="a">
-      <li>Subitem a</li>
-      <li>Subitem b</li>
-    </ol>
-  </li>
-  <li>Main item 3</li>
-</ol>
+1. Main item 1
+2. Main item 2
+   - a. Subitem a
+   - b. Subitem b
+3. Main item 3
+   - a. Subitem a
+   - b. Subitem b
+     - i. Sub-subitem i
+     - ii. Sub-subitem ii
+4. Main item 4
 
